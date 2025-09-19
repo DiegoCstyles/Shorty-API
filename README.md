@@ -43,7 +43,7 @@ cd Shorty-API
 npm install
 ```
 
-###3. Setup Environment Variables
+### 3. Setup Environment Variables
 Create a .env file in the project root:
 ```dotenv
 # Server
